@@ -1,7 +1,7 @@
-# Fandom Dialog Scraper
+# Project Sekai Dialog Scraper
 
 ## Description
-Fandom Dialog Scraper is a Python script designed to scrape character dialogues or quotes from Fandom pages, save them to a file, and optionally enhance them using AI-generated dialogues via Google's Gemini API.
+Project Sekai Dialog Scraper is a Python script designed to scrape character dialogues or quotes from Project Sekai pages, save them to a file, and optionally enhance them using AI-generated dialogues via Google's Gemini API.
 
 ---
 
